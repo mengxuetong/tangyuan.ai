@@ -286,8 +286,8 @@ if __name__ == "__main__":
     image_kb_CN = ["不设置", "自定义"]
     image_kb_EN = ["Not Set", "Custom"]
 
-    title = "<h1 id='title'>HivisionIDPhotos</h1>"
-    description = "<h3>😎9.2 Update: Add photo size KB adjustment</h3>"
+    title = "<h1 id='title'>汤圆证件照</h1>"
+    description = "<h3>随心所变~</h3>"
     css = """
     h1#title, h3 {
       text-align: center;
